@@ -97,8 +97,26 @@ example/ios/Runner.xcodeproj/project.pbxproj
 
 example/.flutter-plugins-dependencies
 
+example/macos/*
+
+example/linux/*
+
+example/windows/*
+
+example/web/*
+
+example/\.metadata
+example/analysis_options.yaml
+
+
 node_modules/
 
 covBadgeGen.js
 coverage/
 .env
+example/windows/*
+example/macos/*
+example/linux/*
+example/web/*
+example/analysis_options.yaml
+

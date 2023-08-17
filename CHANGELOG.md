@@ -1,4 +1,12 @@
 # Versions
+## 6.11.3
+- null pointer exception fix for android, push notification bug fix & ios sdk 6.11.2
+## 6.11.2
+- update to Android SDK to v6.11.2
+## 6.11.1
+- update to Android SDK to v6.11.1
+## 6.10.1
+- update to Android SDK to v6.10.3 & iOS SDK to v6.10.1
 ## 6.9.3
 - update to Android SDK to v6.9.3 & iOS SDK to v6.9.1
 - Added `addPushNotificationDeepLinkPath` API
